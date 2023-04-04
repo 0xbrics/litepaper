@@ -1,6 +1,6 @@
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme
-title: 0xBrics - An Algorithmic, Multi-collateral Stablecoin Protocol
+logo: /assets/images/0xBrics_logo.png
 description: Thie litepaper describes the 0xBrics protocol, a decentralized, algorithmic, multi-collateral stablecoin protocol pegged to the value of the BRICS currency.
-google_analytics: G-RDKDMGHTHE
+google_analytics: G-X8BKVLLZRC
