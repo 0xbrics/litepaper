@@ -1,4 +1,4 @@
-# 0xBRICS : An Algorithmic, Multi-collateral Stablecoin Protocol
+# An Algorithmic, Multi-collateral Stablecoin Protocol
 
 ## Introduction
 0xBRICS is a simplified algorithmic stablecoin protocol inspired by MakerDAO, designed to create a new currency pegged to the value of the upcoming BRICS currency. This litepaper outlines the protocol, associated mathematical formulae, and the reasoning behind the design choices, with constraints and requirements in mind.
